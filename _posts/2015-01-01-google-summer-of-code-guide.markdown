@@ -2,6 +2,7 @@
 layout: post
 title:  "Google Summer of Code Guide"
 date:   2015-01-01 11:09:51
+comments: true
 categories: gsoc
 ---
 
