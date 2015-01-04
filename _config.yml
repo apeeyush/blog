@@ -5,7 +5,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Musings of Peeyush Agarwal
 baseurl: "/blog"
 url: "http://apeeyush.github.io" # the base hostname & protocol for your site
-twitter_username: AgrwaL_Peeyush
+twitter_username: peeyush94
 github_username:  apeeyush
 
 # Build settings
