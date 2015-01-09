@@ -6,7 +6,7 @@ comments: true
 categories: gsoc
 ---
 
-In Summer'14, I participated in [Google Summer of Code][melange] as a student developer. I worked with [The Concord Consortium][cc] and it was truly a summer of fun and learning. Recently, a lot of people have been contacting me with questions about Google Summer of Code so I thought I'll compile my thoughts in a short blog post. This is still a work in progress. To remain updated, you may follow me on [Github][github].
+In Summer 2014, I participated in [Google Summer of Code][melange] as a student developer. I worked with [The Concord Consortium][cc] and it was truly a summer of fun and learning. Recently, a lot of people have been contacting me with questions about Google Summer of Code so I thought I'll compile my thoughts in a short blog post. This is still a work in progress. To remain updated, you may follow me on [Github][github].
 
 ## What is Google Summer of Code?
 Google Summer of Code is a program designed to encourage university student participation in open source software development. For more information about the program, visit the [Google Summer of Code website][gsoc-website]. I especially recommend going through [FAQs][gsoc-faq] as they cover a lot of common queries.
@@ -20,7 +20,8 @@ Google Summer of Code is a program designed to encourage university student part
 
 ## How does Google Summer of Code work?
 - Google selects mentoring organizations
-- Students submit project proposals to the organizations, who select student(s) and pair with mentor(s) from the org
+- Students submit project proposals to the organizations
+- Organizations select student(s) and pair them with mentor(s)
 - Students execute milestones laid out in their accepted project proposal
 - Program stipend allows students to concentrate on OSS development
 
@@ -29,19 +30,21 @@ Google Summer of Code is a program designed to encourage university student part
 - Learn to use a Version Control System (preferably [Git][git])
 - Start reading source code [Learn to Read the Source, Luke][read-the-source]
 
-## What Next?
-- #Selecting organisations/projects
-  Browse through the [list of accepted organisations][gsoc-14-accepted-orgs]. Filter them based on the programming language(s) you are familiar with and your interests. Look at the projects they have accepted in the past and their ideas list. See if you can contribute to them.
+## How to select organizations or projects?
+A lot of students find it difficult to select an organization or project. You can safely skip this section if you are not one of them.
 
-- #Discussing project with organization
-  If you find anything interesting, try getting involved in the community through irc or mailing lists. Go through the source code, see the bugs/issues list, ask smart questions.
+There is no sure shot way of finding the project idea which fits your skills and interests. This task is time consuming and frustrating at times. But you should not loose hope. One possible approach is to browse through the list of accepted organisations. [This][gsoc-14-accepted-orgs] is the link of organizations selected in 2014. Filter them based on the programming language(s) you are familiar with or your interests. Look at the projects they have accepted in the past and their ideas list. See if you can contribute to them.
 
-  Remember that all organizations are independent of each other and they function in different ways. While some of them ask for patches or prototype/proof of concept, there are many others who just look for relevant experience.
+## What next?
+If you find anything interesting, try getting involved in the community through irc or mailing lists. Introduce yourself, discuss about the project idea, go through the source code, see the bugs/issues list and ask smart questions. This will help you understand if you are capable of and interested in working on the project. You ultimately need to convince the community that you can complete the proposed project during the coding period. Many organizations ask students to submit patches or prototypes to test their familiarity with the source code or programming language.
 
-  Many people think that it will be difficult to get selected in bigger organizations like mozilla or python but this is not the case. Bigger organizations get more slots and generally selects more students (even more than 10). On the other hand, most smaller organisations get only 1-3 slots.
+## How to prepare the proposal?
+It is one of the most important thing so make sure you give appropriate time to it. Also, I don't recommend submitting more than 2-3 proposals. This is because writing a quality proposal takes a lot of time and effort. Organizations get a lot of proposals so you should ensure that your proposal stands out. Talk to people in the community (including potential mentor) and discuss your project and proposal content.
 
-## Preparing the perfect proposal
-It is one of the most important thing so make sure you give appropriate time to it. Also, I don't recommend submitting more than 2-3 proposals. This is because writing a quality proposal takes a lot of time and effort. Organizations get a lot of proposals so you should ensure that your proposal stands out. Talk to people in the community (including potential mentor) and discussed your project and proposal content.
+## Any other advice?
+- Start Early! You will be searching and selecting project ideas, reading source code, discussing your approach with the community, submitting patches, preparing prototype or working on the proposal etc. All this takes time and it's in your best interest to start early.
+- Always keep in mind that all organizations are independent of each other and they function in different ways. While some of them ask for patches or prototype/proof of concept, there are many others who just look for relevant experience.
+- Many students think that it will be difficult to get selected in bigger organizations like mozilla or python but this is not the case. Bigger organizations get more slots and generally selects more students (even more than 10). On the other hand, most smaller organisations get only 1-3 slots. So, don't make such generalized assumptions.
 
 ## Useful resources
 - [Google Summer of Code student manual][gsoc-student-manual]
