@@ -3,7 +3,6 @@ layout: post
 title:  "Google Summer of Code Guide"
 date:   2015-01-01 11:09:51
 comments: true
-categories: gsoc
 ---
 
 In Summer 2014, I participated in [Google Summer of Code][melange] as a student developer. I worked with [The Concord Consortium][cc] and it was truly a summer of fun and learning. Recently, a lot of people have been contacting me with questions about Google Summer of Code so I thought I'll compile my thoughts in a short blog post. This is still a work in progress. To remain updated, you may follow me on [Github][github].

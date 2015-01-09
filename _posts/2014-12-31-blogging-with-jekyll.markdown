@@ -3,7 +3,6 @@ layout: post
 title:  "Blogging with Jekyll!"
 date:   2014-12-31 02:18:55
 comments: true
-categories: jekyll blogging
 ---
 I had been thinking to start a blog for a long time and have made a few failed attempts in the past with [wordpress](https://apeeyush.wordpress.com/) and [blogspot](http://agarwalpeeyush.blogspot.in/). The main reason behind the failure in my past attemps has been my discomfort in using the popular blogging platforms. They somehow do not feel right and I find them cumbersome, bloated and difficult to customize. Further, I always felt that my content would be stuck on the platform and that it would be difficult to migrate elsewhere in future.
 
