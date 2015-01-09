@@ -7,6 +7,7 @@ baseurl: "/blog"
 url: "http://apeeyush.github.io" # the base hostname & protocol for your site
 twitter_username: peeyush94
 github_username:  apeeyush
+facebook_username: peeyushagarwal1994
 
 # Build settings
 markdown: kramdown
